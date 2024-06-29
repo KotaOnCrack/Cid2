@@ -37,7 +37,7 @@
     },
     "PREFIX":{
       "description": "your prefix",
-      "value": "&",
+      "value": "+",
       "required": true
      },
     "COlOR":{
@@ -50,11 +50,11 @@
       "required": true
      },
     "OWNERID":{
-      "description": "870179991462236170",
+      "description": "842480950202073149",
       "required": false
      },
     "TOKEN": {
-      "description": "Subcribe To Gamer CodeX",
+      "description": "Yo!",
       "required": true
     }
   }
